@@ -33,7 +33,7 @@ Overview de algumas medidas DAX mais importantes
 
 ![image](https://github.com/user-attachments/assets/7aa67e64-f79e-41ba-86a8-5c9c71419434)
 
-<br<br>
+<br><br>
 **Objetivo do Projeto**<br>
 Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike para revendedores, analisando métricas essenciais, como:<br><br>
 
@@ -44,8 +44,8 @@ Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike p
 - Pedidos e sua variação YoY
 - Preço Médio e Lucro por Unidade 
 
-Filtros Disponíveis no Dashboard<br>
-Este dashboard conta com filtros interativos para análise personalizada:<br>
+**Filtros Disponíveis no Dashboard**<br><br>
+Este dashboard conta com filtros interativos para análise personalizada:<br><br>
 
 - Filtro Temporal → Ano e Mês
 - Filtro Regional → Região e Estado
