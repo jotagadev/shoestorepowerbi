@@ -1,3 +1,5 @@
+<sub>Este é um dashboard é um projeto pessoal com dados fictícios retirados do Kaggle.</sub>
+
 Dashboard de Vendas para Revendedores. <br>
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da empresa para diferentes revendedores. <br>
 O objetivo é fornecer insights estratégicos para a gestão comercial, permitindo acompanhar a performance de vendas, lucratividade e tendências ao longo do tempo.<br>
@@ -9,9 +11,7 @@ A principal vantagem na utilização de um dashboard desse tipo de estrutura, é
 
 ![image](https://github.com/user-attachments/assets/1069dfdf-7707-4d84-b8ed-9f286717c511)
 
-O dataset foi retirado do Kaggle e tratado para uma melhor visualização no dashboard.<br>
-Se trata de uma base de dados de vendas da Nike para revendedores como Walmart.<br>
-As tabelas dimensão foram retiradas da tabela fato para possibilitar o modelo star schema e otimizar a filtragem dos dados.<br><br>
+<br>No Power Query, as tabelas dimensão foram criadas a partir da tabela fato para possibilitar o modelo star schema e otimizar a filtragem dos dados.<br><br>
 
 **Modelagem de dados no Power BI:**
 
