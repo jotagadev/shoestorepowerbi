@@ -1,4 +1,4 @@
-<sub>Este é um dashboard é um projeto pessoal com dados fictícios retirados do Kaggle.</sub>
+<sub>Este dashboard é um projeto pessoal com dados fictícios retirados do Kaggle.</sub>
 
 Dashboard de Vendas para Revendedores. <br>
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da empresa para diferentes revendedores. <br>
