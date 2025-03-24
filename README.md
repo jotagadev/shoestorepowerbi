@@ -1,4 +1,4 @@
-Dashboard de Vendas da Nike para Revendedores
+Dashboard de Vendas da Nike para Revendedores. <br>
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da Nike para diferentes revendedores. O objetivo é fornecer insights estratégicos para a gestão comercial, permitindo acompanhar a performance de vendas, lucratividade e tendências ao longo do tempo.
 
 Preview do Dashboard
