@@ -1,6 +1,9 @@
 Dashboard de Vendas da Nike para Revendedores. <br>
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da Nike para diferentes revendedores. <br>
-O objetivo é fornecer insights estratégicos para a gestão comercial, permitindo acompanhar a performance de vendas, lucratividade e tendências ao longo do tempo. <br><br>
+O objetivo é fornecer insights estratégicos para a gestão comercial, permitindo acompanhar a performance de vendas, lucratividade e tendências ao longo do tempo.<br>
+<br>
+A principal vantagem na utilização de um dashboard desse tipo de estrutura, é que você terá a **versatilidade de uma visualização tabular junto com a clareza de uma visualização temporal.**<br>
+<br><br>
 
 **Preview do Dashboard**
 
@@ -25,6 +28,9 @@ Overview de algumas medidas DAX mais importantes
 -Boleto Médio para o Ano Anterior:<br>
 ![image](https://github.com/user-attachments/assets/71615aa4-70d9-461c-9f6b-6882a8641de4)
 
+-Variação YoY do Boleto Médio: <br>
+![image](https://github.com/user-attachments/assets/e6109574-b10a-46cb-9a7e-18df2d23a833)
+
 -Formatação da variação YoY percentual no gráfico:<br>
 
 ![image](https://github.com/user-attachments/assets/e41517a5-742b-405b-b74b-3efcee0dab39)
@@ -35,7 +41,7 @@ Overview de algumas medidas DAX mais importantes
 
 <br><br>
 **Objetivo do Projeto**<br>
-Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike para revendedores, analisando métricas essenciais, como:<br><br>
+Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike para revendedores, analisando métricas essenciais, como:<br>
 
 - Venda Bruta 
 - Lucro Operacional 
@@ -43,19 +49,19 @@ Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike p
 - Boleto Médio 
 - Pedidos e sua variação YoY
 - Preço Médio e Lucro por Unidade 
-
+<br><br>
 **Filtros Disponíveis no Dashboard**<br><br>
-Este dashboard conta com filtros interativos para análise personalizada:<br><br>
+Este dashboard conta com filtros interativos para análise personalizada:<br>
 
 - Filtro Temporal → Ano e Mês
 - Filtro Regional → Região e Estado
 - Filtro Comercial → Categoria de Produto, Revendedor e Método de Venda
-- Filtro de Conteúdo → Visualização por Região, Revendedor ou Categoria
+- Filtro de Conteúdo → Visualização por Região, Revendedor ou Categoria<br><br>
 
-Como Acessar o Dashboard?<br>
+**Como Acessar o Dashboard?**<br>
 Caso tenha acesso ao Power BI Service, o relatório pode ser disponibilizado sob demanda.<br><br>
 
-Autor<br>
+**Autor**<br><br>
 Projeto desenvolvido por mim, João Henrique, Analista de BI com experiência em análise de dados e visualização de informações estratégicas.<br><br>
 
 Entre em contato: [LinkedIn](https://www.linkedin.com/in/rickmenezes/)
