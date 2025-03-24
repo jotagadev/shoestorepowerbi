@@ -1,5 +1,5 @@
-Dashboard de Vendas da Nike para Revendedores. <br>
-Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da Nike para diferentes revendedores. <br>
+Dashboard de Vendas para Revendedores. <br>
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI, que analisa as vendas da empresa para diferentes revendedores. <br>
 O objetivo é fornecer insights estratégicos para a gestão comercial, permitindo acompanhar a performance de vendas, lucratividade e tendências ao longo do tempo.<br>
 <br>
 A principal vantagem na utilização de um dashboard desse tipo de estrutura, é que você terá a **versatilidade de uma visualização tabular junto com a clareza de uma visualização temporal.**<br>
@@ -40,8 +40,7 @@ Overview de algumas medidas DAX mais importantes
 ![image](https://github.com/user-attachments/assets/7aa67e64-f79e-41ba-86a8-5c9c71419434)
 
 <br><br>
-**Objetivo do Projeto**<br>
-Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike para revendedores, analisando métricas essenciais, como:<br>
+**Métricas essenciais:**<br>
 
 - Venda Bruta 
 - Lucro Operacional 
@@ -51,7 +50,6 @@ Este dashboard foi desenvolvido para monitorar o desempenho das vendas da Nike p
 - Preço Médio e Lucro por Unidade 
 <br><br>
 **Filtros Disponíveis no Dashboard**<br><br>
-Este dashboard conta com filtros interativos para análise personalizada:<br>
 
 - Filtro Temporal → Ano e Mês
 - Filtro Regional → Região e Estado
